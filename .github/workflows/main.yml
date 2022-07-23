@@ -1,0 +1,4 @@
+- uses: Platane/snk@v1.1.0
+  with:
+    github_user_name: ${{ code-parth }}
+    svg_out_path: dist/github-snake.svg
