@@ -6,7 +6,6 @@
     # github user name
     code-parth:
     # list of files to generate.
-Generates one file per line. Each output can be customized with query string.
 following this pattern: path/to/file.<gif or svg>?palette=<github or github-dark>&color_snake=<color>&color_dots=<color>,<color>,<color>,<color>,<color>
 
 supported query string options:
