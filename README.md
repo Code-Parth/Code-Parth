@@ -18,7 +18,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Code-Parth&theme=react-dark&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-Parth&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-Parth&theme=dracula&row=2&no-bg=true&hide_border=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 
