@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk@v2
         with:
-          github_user_name: ${{ code-parth }}
+          github_user_name: code-parth
           
           outputs: |
             dist/github-snake.svg
