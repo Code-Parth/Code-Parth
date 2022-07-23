@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Parth Parmar  (Code-Parth)&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+<div align="center">
+  
+  ![GitHub Snake Light](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Code-Parth&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Parth Parmar github stats" /> 
@@ -12,11 +18,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Code-Parth&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">
-  
-  ![GitHub Snake Light](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer"/>
