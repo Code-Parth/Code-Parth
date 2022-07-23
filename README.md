@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3086d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Parth+Parmar;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Parth&theme=prussian&layout=compact&count_private=true&hide_border=true" />
-</div>
-
-<div align="center">
   
   ![GitHub Snake Light](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   ![GitHub Snake dark](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Parth&theme=prussian&layout=compact&count_private=true&hide_border=true" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Code-Parth&theme=react-dark&hide_border=true&area=true)
