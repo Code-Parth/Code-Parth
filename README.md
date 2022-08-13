@@ -1,6 +1,4 @@
 _____
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306391&height=150&section=header&text=Parth Parmar  (Code-Parth)&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3086d4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Parth+Parmar.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 _____
 <div align="center">
@@ -23,7 +21,5 @@ _____
   <img src="https://github-profile-trophy.vercel.app/?username=Code-Parth&theme=dracula&row=1&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306391&height=150&section=footer"/>
 
 _____
