@@ -9,12 +9,15 @@ _____
 </div>
 
 _____
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=code-parth&theme=react-dark)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Parth&theme=prussian&layout=compact&count_private=true&hide_border=true" />
 </div>
+
+<br/>
+
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=code-parth&theme=react-dark)
 
 _____
 <p align="center">
