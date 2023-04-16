@@ -9,7 +9,7 @@ _____
 </div>
 
 _____
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Code-Parth&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=code-parth&theme=react-dark)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
