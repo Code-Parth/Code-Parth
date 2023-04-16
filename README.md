@@ -10,8 +10,8 @@ _____
 
 _____
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=code-parth&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact&hide_border=true&disable_animations=true"/>
-  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=code-parth&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-parth&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact&hide_border=true&disable_animations=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-parth&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 <br/>
 
