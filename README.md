@@ -2,9 +2,9 @@ _____
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3086d4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Parth+Parmar.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 _____
 <picture align='center'>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
 _____
