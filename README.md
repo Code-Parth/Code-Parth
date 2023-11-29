@@ -1,12 +1,11 @@
 _____
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3086d4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Parth+Parmar.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 _____
-<div align="center">
-  
-  ![GitHub Snake Light](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](https://github.com/Code-Parth/code-parth/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
+<picture align='center'>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 _____
 <div align="center">
