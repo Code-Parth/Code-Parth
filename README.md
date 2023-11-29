@@ -10,12 +10,12 @@ _____
 
 _____
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-parth&show_icons=true&theme=prussian&layout=compact&hide_border=true&disable_animations=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=code-parth&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-parth&&theme=prussian&hide_border=true&locale=en"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
 </div>
 <br/>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=code-parth&theme=react-dark)
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Code-Parth&bg_color=172f45&color=bddfff&line=7d8893&point=38a0ff&area=true&hide_border=true)
 
 _____
 <picture>
