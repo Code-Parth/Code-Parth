@@ -12,6 +12,7 @@
 <a href="https://twitter.com/Code_Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Parth Parmar | Twitter" /></a> 
 <a href="https://linkedin.com/in/CodeParth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Parth Parmar | Linked in" /></a>
 <a href="https://github.com/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Parth Parmar | GitHub" /></a> 
+<a href="https://codeparth.tech" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Parth Parmar | Portfolio" /></a> 
 
 <h2 align="left">I familiar with :</h2>
 
