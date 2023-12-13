@@ -8,7 +8,7 @@
 
 <h3 align="center" >An enduring pursuit of innovation, spanning AI, practical solutions, and hardware expertise.</h3>
 
-<img src="https://visitcount.itsvg.in/api?id=Code-Parth&label=Profile%20Views&color=0&icon=5&pretty=false" />
+<!-- <img src="https://visitcount.itsvg.in/api?id=Code-Parth&label=Profile%20Views&color=0&icon=5&pretty=false" /> -->
 
 <h2 align="left">Let's Connect :</h2>
 <p align="left">
