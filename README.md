@@ -99,7 +99,7 @@ _____
   ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Code-Parth&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
 
   <div align="center">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-parth&&theme=prussian&hide_border=true&locale=en"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-parth&show_icons=true&theme=prussian&hide_border=true&locale=en"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
   </div>
 </div>
