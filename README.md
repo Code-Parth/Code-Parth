@@ -12,7 +12,7 @@
 <h2 align="left">Let's Connect :</h2>
 <p align="left">
 <a href="https://twitter.com/Code_Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Parth Parmar | Twitter"></img></a> 
-<a href="https://linkedin.com/in/CodeParth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Parth Parmar | Linked in" /></a>
+<a href="https://linkedin.com/in/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Parth Parmar | Linked in" /></a>
 <a href="https://github.com/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Parth Parmar | GitHub" /></a> 
 
 <details>
