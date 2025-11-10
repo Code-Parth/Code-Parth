@@ -1,4 +1,4 @@
-<h1 align="center">Hi 
+<h1 align="center">Hi
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="28" height="28">
@@ -6,128 +6,63 @@
   , I'm Parth Parmar
 </h1>
 
-<h3 align="center" >An enduring pursuit of innovation, spanning AI, practical solutions, and hardware expertise.</h3>
+<h3 align="center">Developer and Founder | "Code for no reason" | 5 years of shipping what matters</h3>
 
+<p align="center">
+  <em>Superteam India Member | Currently building <strong>@Apexia</strong></em>
+</p>
 
-<h2 align="left">Let's Connect :</h2>
+---
+
+<h2 align="left">Let's Connect:</h2>
 <p align="left">
-<a href="https://twitter.com/Code_Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Parth Parmar | Twitter"></img></a> 
-<a href="https://linkedin.com/in/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Parth Parmar | Linked in" /></a>
-<a href="https://github.com/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Parth Parmar | GitHub" /></a> 
+<a href="https://twitter.com/Code_Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Parth Parmar | Twitter"></img></a>
+<a href="https://linkedin.com/in/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Parth Parmar | LinkedIn" /></a>
+<a href="https://github.com/Code-Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Parth Parmar | GitHub" /></a>
+<a href="https://instagram.com/Code.Parth" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Parth Parmar | Instagram" /></a>
+</p>
 
+---
 
-<h2 align="left">Projects build by me:</h2>
+<h2 align="left">Projects I've Built:</h2>
 
-| Project                             | Duration             | Description                                                                                                                                       | Skills                                                                                           |
-|-------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **DripIN**                          | Apr 2024 - Present    | Drip NFT community platform enabling video chats between collectors of the same Drip NFT collections.                                               | Solana, Next.js, TypeScript, Tailwind CSS, Web3                                                   |
-| **Apexia Certificate**              | Feb 2024 - Jun 2024   | Certificate generation and download website for event attendees.                                                                                   | Next.js, SVG, Tailwind CSS                                                                        |
-| **MediCognize**                     | Apr 2024 - May 2024   | A website for checking harmful drug-drug interactions using Django API and Bayesian networks.                                                       | Next.js, Tailwind CSS, Django REST, Python, Bayesian networks                                     |
-| **Kaleido**                         | Mar 2024              | AI-powered social media platform allowing content monetization and token-gated communities.                                                         | Ethereum, Solidity, Next.js, Tailwind CSS, Web3                                                   |
-| **OffC (Offline File Converter)**   | Feb 2024              | Offline file converter for audio, video, and photos, supporting batch conversions at high speed.                                                    | Terminal, Windows, Python, FFmpeg, WebAssembly                                                    |
-| **Prostate Cancer Detection**       | Jul 2023 - Nov 2023   | Prostate cancer detection using multiparametric MRI and machine learning algorithms.                                                                | Image Processing, Machine Learning, Python                                                        |
-| **SkyHex**                          | Sep 2022 - Jul 2023   | Autonomous hexacopter drone navigating obstacles between defined positions.                                                                         | Reinforcement Learning, Raspberry Pi, WebSocket, Python, C++, IoT, GPS                             |
-| **Minticia**                        | Apr 2023              | AR/VR-enabled 3D NFTs for immersive experiences, with auctions and ownership authentication via wallet verification and QR codes.                  | Ethereum, Solidity, Next.js, Tailwind CSS, NFTs                                                   |
-| **Map Generator**                   | Mar 2023              | Simple map creator using Python.                                                                                                                   | Python                                                                                           |
-| **DeepRacer Waypoints Visualisation**| Jul 2022 - Feb 2023   | Custom visualization tool for AWS DeepRacer to optimize autonomous car performance, aiming for top 50 global position.                              | Vector Calculus, Python, Reinforcement Learning, Machine Learning                                 |
-| **Crypto Mining Setup (k8s)**       | Jun 2022 - Jul 2022   | Scalable crypto mining cluster with Kubernetes using Raspberry Pi nodes and GPU-powered machines.                                                   | Kubernetes, Terminal, Ubuntu, Docker, Kernel, CUDA                                                |
+| Project | Duration | Description | Skills |
+|---------|----------|-------------|--------|
+| **Solana Mobile Wallet Adapter - iOS** | Oct 2025 | Native SwiftUI iOS app enabling secure integration with Solana wallets using deeplinks and end-to-end encryption (Curve25519 ECDH + ChaCha20-Poly1305). | Swift, SwiftUI, iOS SDK, CryptoKit, Sodium, Base58Swift |
+| **Accret** | Feb 2025 → Oct 2025 | Mobile-first multi-chain wallet supporting Solana, Ethereum, Arbitrum, Polygon, and Base. First place Wormhole Multichain Track (Solana Breakout). | React Native, TypeScript, Web3 |
+| **Camp Network L1** | Jul 2025 → Aug 2025 | Contract frontend integration for L1 blockchain with same-chain swaps and multichain bridging. | Next.js, TypeScript, Tailwind CSS |
+| **Node Modules Cleaner** | Apr 2025 → Jul 2025 | Native macOS desktop app for managing disk space by identifying and deleting node_modules folders. Available on Mac App Store. | Swift, SwiftUI, macOS AppKit, Core Data |
+| **Gibhlub** | Mar 2025 | GitHub network visualization tool with OAuth, interactive graphs, and dynamic OG image generation. | Next.js, GraphQL, React Flow, Apollo Client, Framer Motion |
+| **smooth-cursor** | Feb 2025 | Open-source React component library for physics-based cursor animations. Published on NPM (v0.1.2). | React, TypeScript, Framer Motion, Rollup |
+| **DripIN** | Apr 2024 → Nov 2024 | Community platform for Drip NFT collectors with gated video chat and "blink" transfers enabling Twitter-based NFT actions. | Solana, Next.js, TypeScript, Tailwind CSS |
+| **tryEnv** | Nov 2024 | VS Code extension for secure environment variable management with AES-256-GCM encryption and GitHub backups. | TypeScript, VS Code API, Node.js crypto, esbuild |
+| **Apexia Certificate** | Feb 2024 → Jun 2024 | Web app generating downloadable SVG-based event certificates for attendees. | Next.js, SVG, Tailwind CSS |
+| **MediCognize** | Apr 2024 → May 2024 | Web service flagging potential drug-drug interactions using Django API and Bayesian networks. | Next.js, Tailwind, Django REST, Python, ML |
+| **Kaleido** | Mar 2024 | Web3 social platform with AI-driven content creation, NFT ownership, and token-gated monetization. | Ethereum, Solidity, Next.js, Tailwind CSS |
+| **OffC (Offline Converter)** | Feb 2024 | Local file converter using FFmpeg + WebAssembly for batch audio/video/image conversion. | FFmpeg, WebAssembly, Python, Windows |
+| **Prostate Cancer Detection** | Jul 2023 → Nov 2023 | Machine learning system for prostate cancer detection using multiparametric MRI processing. | Python, Image Processing, ML |
+| **SkyHex** | Sep 2022 → Jul 2023 | Autonomous hexacopter with waypoint navigation, obstacle re-routing, and RL-based control. Research paper published. | RL, Raspberry Pi, Python, C++, WebSockets, GPS |
+| **Minticia** | Apr 2023 | AR/VR 3D NFT marketplace with authenticated physical/digital handoff via QR codes and on-chain provenance. | Ethereum, Solidity, Next.js, NFTs |
+| **Map Generator** | Mar 2023 | Simple procedural map creator for simulations and visual experiments. | Python |
+| **DeepRacer Visualization** | Jul 2022 → Feb 2023 | Custom visualization tool for AWS DeepRacer with trajectory planning. Achieved top-50 global ranking. | Python, RL, Vector Calculus |
+| **Crypto Mining (k8s)** | Jun 2022 → Jul 2022 | Distributed mining cluster using Kubernetes with mixed node types (Raspberry Pi + GPU machines). | Kubernetes, Docker, Ubuntu, CUDA |
 
+---
 
-<details>
-  <summary>I am familiar with</summary>
-  
-  - <details>
-      <summary>Cloud</summary>
-        <div>
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg"> 
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg"> 
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> 
-        </div>
-    </details>
-  
-  - <details>
-      <summary>Database</summary>
-      <div>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"> 
-      </div>
-    </details>
-    
-  - <details>
-      <summary>Design tools</summary>
-      <div>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg"> 
-      </div>
-    </details>
-    
-  - <details>
-      <summary>IDEs</summary>
-      <div>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg"> 
-      </div>
-    </details>
-    
-  - <details>
-      <summary>Languages</summary>
-      <div>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg"> 
-      </div>
-    </details>
-    
-  - <details>
-      <summary>Libraries and frameworks</summary>
-      <div>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NuGet/nuget2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg"> 
-    </div>
-  </details>
-</details>
+<h2 align="left">Notable Achievements:</h2>
 
-<img src="https://visitcount.itsvg.in/api?id=Code-Parth&label=Profile%20Views&color=0&icon=5&pretty=false" />
+- 🏆 **First Place** - Wormhole Multichain Track at Solana Breakout (Accret)
+- 📱 **Mac App Store** - Node Modules Cleaner shipped to production
+- 📦 **NPM Package** - smooth-cursor (v0.1.2) with full TypeScript support (also at the MagicUI component)
+- 🔌 **VS Code Marketplace** - tryEnv extension published
+- 📄 **Research Paper** - SkyHex autonomous hexacopter navigation
+- 🏅 **SSIP Grant** - Awarded for SkyHex research
+- 🎯 **Top-50 Global** - AWS DeepRacer competition ranking
 
-_____
+---
 
 <div>
-  
+
   ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Code-Parth&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
 
   <div align="center">
